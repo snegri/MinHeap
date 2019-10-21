@@ -1,4 +1,4 @@
-import Heap.py
+import MinHeap.py
 
 heapy = Heap()
 heapy.printMenu()
